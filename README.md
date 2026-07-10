@@ -10,13 +10,13 @@ Compared to the original **v1.0.0**, this version includes:
 * ✨ Added a powerful built-in **text editor** with full multilingual/Unicode support.
 * 🔒 Added the ability to set a **startup password** for Sphaira.
 * 🚀 Added an option to **install Sphaira as the frontend/homebrew launcher**.
-* 🎮 Added support for **customizing game metadata** (title, author, version). *(Requires **sys-ticon**.)*
+* 🎮 Added support for **customizing game metadata** (title, author, version, icon). *(Requires **sys-ticon**.)*
 * 🌐 UI improvement: **IP address is now displayed correctly even in Applet Mode.**
 * 🖱️ Optimized interaction logic across various menus.
 * 📦 Added support for **switching App Store sources**.
 * 🎨 Fixed **Themezer** integration and related issues.
 * 🛠️ Various bug fixes, performance improvements, and general optimizations.
-
+...
 ---
 
 > **Note:** This repository is **not the official Sphaira project**. It is a personal fork that contains additional features and modifications. For the official version, please visit the original repository.
