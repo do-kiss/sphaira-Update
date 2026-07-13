@@ -10,16 +10,22 @@ Compared to the original **v1.0.0**, this version includes:
 * ✨ Added a powerful built-in **text editor** with full multilingual/Unicode support.
 * 🔒 Added the ability to set a **startup password** for Sphaira.
 * 🚀 Added an option to **install Sphaira as the frontend/homebrew launcher**.
-* 🎮 Added support for **customizing game metadata** (title, author, version, icon). *(Requires **sys-ticon**.--auto install)*
+* 🎮 Added support for **customizing game metadata** (title, author, version, icon). *(Requires **sys-ticon** -- auto-installed.)*
 * 🌐 UI improvement: **IP address is now displayed correctly even in Applet Mode.**
 * 🖱️ Optimized interaction logic across various menus.
 * 📦 Added support for **switching App Store sources**.
 * 🎨 Fixed **Themezer** integration and related issues.
+* 🛠️ Utility tools: **One-Click Keys Extraction, Disable SysNAND Theme, and Delete Themes.**
+* 🎨 Added support for **customizing Joy-Con colors**.
+* 👤 Added support for **customizing user avatars** by scanning a QR code to select an image from your phone.
+* ℹ️ Added a comprehensive **System Information** page, including **hardware details, SoC and RAM model/binning information, eMMC details, SD card details, battery information**, and more.
+* 🌍 Improved multilingual text rendering and localization.
 * 🛠️ Various bug fixes, performance improvements, and general optimizations.
-* 🛠️ Utility tools: One-Click Keys Extraction, Disable SysNAND Theme, and Delete Themes.
+  
+* 🖼️ Preview images for some of the new features are available on the [Releases](https://github.com/do-kiss/sphaira-Update/releases) page.
   
 * * * See the changelog for more enhancements and improvements.* * * 
----
+
 
 > **Note:** This repository is **not the official Sphaira project**. It is a personal fork that contains additional features and modifications. For the official version, please visit the original repository.
 
