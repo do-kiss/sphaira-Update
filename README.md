@@ -1,3 +1,17 @@
+# Sphaira — Enhanced Edition
+
+An enhanced fork of [Sphaira](https://github.com/NaGaa95/sphaira), featuring extensive improvements and many new features.
+
+Curious to see everything that's changed? Visit the [Releases](https://github.com/do-kiss/sphaira-Update/releases) page to explore the improvements made in every release since this fork was first published.
+
+
+> **Note:** This repository is **not the official Sphaira project**. It is a personal fork that contains additional features and modifications. For the official version, please visit the original repository.
+
+
+---
+---
+---
+
 # Sphaira
 
 A homebrew menu for the Nintendo Switch.
